@@ -1,0 +1,1 @@
+# Time Series Analysis and Forecasting of Median and Average Hourly Wages in the USA (1973-2022)
